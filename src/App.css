@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background-color: aqua;
+}
+
+#list {
+  background-color: rgb(99, 64, 133);
+  font-size: 1rem;
+  border: white;
+  width: 10rem;
+}
+
+.hidden {
+  display: none;
+}
+li {
+  font-weight: bold;
+}
+ul {
+  cursor: pointer;
+}
